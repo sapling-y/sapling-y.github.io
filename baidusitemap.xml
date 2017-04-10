@@ -5,7 +5,7 @@
     
     
   <url>
-    <loc>http://baidu.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://yoursite.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2017-04-09T14:52:46.281Z</lastmod>
     <data>
         <display>
@@ -21,7 +21,7 @@
     
     
   <url>
-    <loc>http://baidu.com/2017/04/07/categories/</loc>
+    <loc>http://yoursite.com/2017/04/07/categories/</loc>
     <lastmod>2017-04-09T04:15:43.590Z</lastmod>
     <data>
         <display>
@@ -31,10 +31,10 @@
          
            
              
-              <breadCrumb title="一级标题" url="http://baidu.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+              <breadCrumb title="一级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
           
              
-              <breadCrumb title="二级标题" url="http://baidu.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+              <breadCrumb title="二级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
           
         </display>
     </data>
@@ -42,7 +42,7 @@
 
     
   <url>
-    <loc>http://baidu.com/2017/04/09/%E5%95%8A/</loc>
+    <loc>http://yoursite.com/2017/04/09/%E5%95%8A/</loc>
     <lastmod>2017-04-09T04:14:00.430Z</lastmod>
     <data>
         <display>
@@ -60,7 +60,7 @@
     
     
   <url>
-    <loc>http://baidu.com/2017/04/05/hello-world/</loc>
+    <loc>http://yoursite.com/2017/04/05/hello-world/</loc>
     <lastmod>2017-04-05T08:40:44.800Z</lastmod>
     <data>
         <display>
