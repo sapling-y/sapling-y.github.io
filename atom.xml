@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-09T14:52:46.281Z</updated>
+  <updated>2017-04-10T08:59:12.185Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,20 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>分类</title>
     <link href="http://yoursite.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
     <id>http://yoursite.com/2017/04/09/新建文本文档/</id>
     <published>2017-04-09T14:52:46.281Z</published>
-    <updated>2017-04-09T14:52:46.281Z</updated>
+    <updated>2017-04-10T08:59:12.185Z</updated>
     
-    <content type="html"><![CDATA[<p>title:  啊啊啊#文章标题<br>date:  #时间，一般不用改<br>categories:  about#目录分类<br>tags:  #标签，格式可以是[Hexo,总结]，中间用英文逗号分开<br>keywords:  #文章关键词，多个关键词用英文逗号隔开</p>
+    <content type="html"><![CDATA[<p>页文档提供了一些范例，并且每个范例都会提供输出的 HTML 结果。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;title:  啊啊啊#文章标题&lt;br&gt;date:  #时间，一般不用改&lt;br&gt;categories:  about#目录分类&lt;br&gt;tags:  #标签，格式可以是[Hexo,总结]，中间用英文逗号分开&lt;br&gt;keywords:  #文章关键词，多个关键词用英文逗号隔开&lt;
+      &lt;p&gt;页文档提供了一些范例，并且每个范例都会提供输出的 HTML 结果。&lt;/p&gt;
+
     
     </summary>
+    
+      <category term="一级标题" scheme="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+    
+      <category term="二级标题" scheme="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
     
     
   </entry>

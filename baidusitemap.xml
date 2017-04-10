@@ -4,6 +4,27 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2017-04-10T08:59:12.185Z</lastmod>
+    <data>
+        <display>
+        <title>分类</title>
+        <pubTime>2017-04-09T14:52:46.281Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="一级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+          
+             
+              <breadCrumb title="二级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     <lastmod>2017-04-10T08:38:36.742Z</lastmod>
     <data>
@@ -17,21 +38,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://yoursite.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2017-04-09T14:52:46.281Z</lastmod>
-    <data>
-        <display>
-        <title></title>
-        <pubTime>2017-04-09T14:52:46.281Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
     
   <url>
