@@ -4,6 +4,41 @@
 
     
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    <lastmod>2017-04-10T09:24:00.166Z</lastmod>
+    <data>
+        <display>
+        <title>All tags</title>
+        <pubTime>2017-04-05T15:11:45.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/04/07/categories/</loc>
+    <lastmod>2017-04-10T09:23:57.604Z</lastmod>
+    <data>
+        <display>
+        <title>分类</title>
+        <pubTime>2017-04-07T15:46:11.159Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="一级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+          
+             
+              <breadCrumb title="二级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/04/10/%E4%BA%9A%E9%A9%AC%E9%80%8A%E9%B2%87%E9%B1%BC/</loc>
     <lastmod>2017-04-10T09:21:26.286Z</lastmod>
     <data>
@@ -183,42 +218,7 @@
     </url>
 
     
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    <lastmod>2017-04-10T08:38:36.742Z</lastmod>
-    <data>
-        <display>
-        <title>All tags</title>
-        <pubTime>2017-04-05T15:11:45.000Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
     
-    
-    
-  <url>
-    <loc>http://yoursite.com/2017/04/07/categories/</loc>
-    <lastmod>2017-04-09T04:15:43.590Z</lastmod>
-    <data>
-        <display>
-        <title>分类</title>
-        <pubTime>2017-04-07T15:46:11.159Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="一级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
-          
-             
-              <breadCrumb title="二级标题" url="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
     
