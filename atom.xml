@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-10T12:35:57.047Z</updated>
+  <updated>2017-04-10T13:14:41.600Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017.4.10</title>
+    <link href="http://yoursite.com/2017/04/10/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+    <id>http://yoursite.com/2017/04/10/工作日志/</id>
+    <published>2017-04-10T13:14:00.545Z</published>
+    <updated>2017-04-10T13:14:41.600Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="工作日志" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日子要慢慢过</title>
