@@ -4,21 +4,21 @@
   <subtitle>sapling</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://baidu.com/"/>
   <updated>2017-04-09T14:52:46.281Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://baidu.com/</id>
   
   <author>
     <name>WuYunTong</name>
-    
+    <email>18297801873@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
-    <id>http://yoursite.com/2017/04/09/新建文本文档/</id>
+    <link href="http://baidu.com/2017/04/09/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3/"/>
+    <id>http://baidu.com/2017/04/09/新建文本文档/</id>
     <published>2017-04-09T14:52:46.281Z</published>
     <updated>2017-04-09T14:52:46.281Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2017/04/09/%E5%95%8A/"/>
-    <id>http://yoursite.com/2017/04/09/啊/</id>
+    <link href="http://baidu.com/2017/04/09/%E5%95%8A/"/>
+    <id>http://baidu.com/2017/04/09/啊/</id>
     <published>2017-04-09T03:32:43.846Z</published>
     <updated>2017-04-09T04:14:00.430Z</updated>
     
@@ -55,8 +55,8 @@
   
   <entry>
     <title>分类</title>
-    <link href="http://yoursite.com/2017/04/07/categories/"/>
-    <id>http://yoursite.com/2017/04/07/categories/</id>
+    <link href="http://baidu.com/2017/04/07/categories/"/>
+    <id>http://baidu.com/2017/04/07/categories/</id>
     <published>2017-04-07T15:46:11.159Z</published>
     <updated>2017-04-09T04:15:43.590Z</updated>
     
@@ -74,17 +74,17 @@
     
     </summary>
     
-      <category term="一级标题" scheme="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+      <category term="一级标题" scheme="http://baidu.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
     
-      <category term="二级标题" scheme="http://yoursite.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
+      <category term="二级标题" scheme="http://baidu.com/categories/%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98/%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/05/hello-world/"/>
-    <id>http://yoursite.com/2017/04/05/hello-world/</id>
+    <link href="http://baidu.com/2017/04/05/hello-world/"/>
+    <id>http://baidu.com/2017/04/05/hello-world/</id>
     <published>2017-04-05T08:40:44.800Z</published>
     <updated>2017-04-05T08:40:44.800Z</updated>
     
