@@ -4,6 +4,20 @@
 
     
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    <lastmod>2017-04-10T13:42:42.105Z</lastmod>
+    <data>
+        <display>
+        <title>All tags</title>
+        <pubTime>2017-04-05T15:11:45.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/04/10/%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2017-04-10T13:32:21.549Z</lastmod>
     <data>
@@ -125,20 +139,6 @@
              
               <breadCrumb title="日记" url="http://yoursite.com/categories/%E6%97%A5%E8%AE%B0/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    <lastmod>2017-04-10T09:24:00.166Z</lastmod>
-    <data>
-        <display>
-        <title>All tags</title>
-        <pubTime>2017-04-05T15:11:45.000Z</pubTime>
-        
-         
         </display>
     </data>
     </url>
